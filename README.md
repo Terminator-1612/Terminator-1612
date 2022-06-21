@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Known Tools & Technologies:
+				
+				
+				
+				
+				
+				
+				
 <!--
 **Terminator-1612/Terminator-1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
